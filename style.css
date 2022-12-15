@@ -92,20 +92,20 @@ span {
 
 .acording-down1 {
     background-color: var(--roxo);
-    margin-bottom: 40px;
+    margin-bottom: 40px;       /* solution comment note */
     border-radius: 10px;
 }
 
 .acording-down2 {
     background-color: var(--roxo);
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 20px;          /* solution comment note */
+    margin-bottom: 20px;       /* solution comment note */
     border-radius: 10px;
 }
 
 .acording-down3 {
     background-color: var(--roxo);
-    margin-top: 40px;
+    margin-top: 40px;           /* solution comment note */
     border-radius: 10px;  
 }
 
